@@ -1,1 +1,0 @@
-typescript-postgres-prisma-client
